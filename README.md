@@ -2,7 +2,7 @@
 
 # Minicurso de REST API com Laravel/Lumen
 
-Repositório oficial do minicurso de React-Native promovido pelo **C**élula **A**cadêmico de **De**senvolvimento de **S**oftware (CADES) no **CADESDAY #1**.
+Repositório oficial do minicurso de Laravel/Lumen promovido pelo **C**élula **A**cadêmico de **De**senvolvimento de **S**oftware (CADES) no **CADESDAY #1**.
 
 ## Instrutores
 
